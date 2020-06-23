@@ -9,7 +9,7 @@
  [Image 1](https://drive.google.com/file/d/1Uxg2L6cKRvfYnW_2JBG67OqSyAWdyXHY/view?usp=sharing)
  
 ## Option 2 (with retraining the models):
-# this will take at least one hour to retrain bouth models:
+# ''' - this will take at least one hour to retrain bouth models:'''
 1.Run the FinalGui.py<br/>
 2.Click on register and followe the program instruction<br/>
 [Image 1](https://drive.google.com/file/d/1Uxg2L6cKRvfYnW_2JBG67OqSyAWdyXHY/view?usp=sharing)<br/>
