@@ -6,7 +6,7 @@
 1.Run the FinalGui.py<br/>
 2.In the login option use the following:
  - user:tal<br/>password:123<br/>
- [Image 1](https://drive.google.com/file/d/1g_GSkJT1c6pVn6Aqhj4OhLLUnLSxVwiU/view?usp=sharing)
+ [Image 1](https://drive.google.com/file/d/1Uxg2L6cKRvfYnW_2JBG67OqSyAWdyXHY/view?usp=sharing)
  
 ## Option 2 (with retraining the models):
 # this will take at least one hour to retrain bouth models:
