@@ -31,7 +31,9 @@ In addition we added a noise label that has 2000 samples. <br/>
 The total amount of samples is 18320.<br/>
 **Dataset Location**:<br/>
 Due to large size of the data,we created a zip file it's located in this [google drive link](https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1nNRhXT5ko_dLm2eyBCIyA6FC7Je5SF28%3Fusp%3Dsharing)</br>
-If you want to retrain the modles you need to download the zip,and extract the folder into main folder project.
+If you want to retrain the modles you need to download the zip,and extract the folder into main folder project.</br>
+We use this dataset for training and testing and validation,it's distributed randomly:</br>
+70% training.</br> 25% testing.</br> 5% validation.
 
 ## Speaker recognition data:
 **Source**:<br/>
@@ -42,8 +44,20 @@ Description: The samples are in PNG format with an average size of 10.5 KB.<br/>
 **Number of samples**:<br/>
 For each label there are 15 samples, in total there are 75 samples.<br/>
 **Dataset Location**:<br/>
-The data is located in this [link](https://github.com/thewolfe1/TheThirdEye/tree/master/speaker)<br/>
-
+The data is located in the [speaker folder](https://github.com/thewolfe1/TheThirdEye/tree/master/speaker)<br/>
+# Folders explantaion:
+1.**speaker folder**:</br>
+It contains all the audio files for speaker recognition model.</br>
+2.**img data**:</br>
+Contains all the spetrograms of the audio files of speaker model.</br>
+3.**data**:</br>
+contains 3 folders:</br>
+-**train**:</br>
+contains all the images for the training.</br>
+-**val**:</br>
+contains all the images for the testing.</br>
+-**test/temp**:</br>
+contains the file of live recording that is analazed in real time.</br>
 # Project book:
 [link](https://github.com/thewolfe1/TheThirdEye/blob/master/%D7%A1%D7%A4%D7%A8%20%D7%A4%D7%A8%D7%95%D7%99%D7%99%D7%A7%D7%98.pdf)</br>
 
