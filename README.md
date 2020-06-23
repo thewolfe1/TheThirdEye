@@ -45,6 +45,10 @@ Description: The samples are in PNG format with an average size of 10.5 KB.<br/>
 For each label there are 15 samples, in total there are 75 samples.<br/>
 **Dataset Location**:<br/>
 The data is located in the [speaker folder](https://github.com/thewolfe1/TheThirdEye/tree/master/speaker)<br/>
+The trainig and testing data is located in the [data folder](https://github.com/thewolfe1/TheThirdEye/tree/master/data)<br/>
+it's distributed randomly:</br>
+70% training.</br> 30% testing.</br>.
+
 # Folders explantaion:
 1.**speaker folder**:</br>
 It contains all the audio files for speaker recognition model.</br>
