@@ -1,3 +1,9 @@
+# RTE:
+1.Pycharm vs.2019.2.1</br>
+2.Python 3.6</br>
+3.16 GB RAM</br>
+4.4 GB free memory at least </br>
+5. Windows 10</br>
 # Installation:
 1.pip install -r requirements.txt
 
