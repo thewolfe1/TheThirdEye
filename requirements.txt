@@ -150,7 +150,7 @@ split-folders==0.3.1
 sqlparse==0.3.0
 subprocess32==3.5.4
 tensorboard==2.0.2
-tensorflow==2.0.0
+tensorflow==2.0.3
 tensorflow-estimator==2.0.1
 termcolor==1.1.0
 tqdm==4.41.0
